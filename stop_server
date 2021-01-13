@@ -1,0 +1,7 @@
+#!/bin/bash
+
+echo "Step 6 - Application Stop"
+#isExistApp = `pgrep httpd`
+#if [[ -n  $isExistApp ]]; then
+#    service httpd stop
+#fi

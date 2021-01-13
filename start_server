@@ -1,0 +1,4 @@
+#!/bin/bash
+echo "Step 7 - Application Start"
+#service tomcat start
+#service httpd start
